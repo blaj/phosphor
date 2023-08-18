@@ -1,0 +1,17 @@
+{
+    "name": "blaj/phosphor",
+    "description": "Simple MVC Framework written in PHP",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Blaj\\Phosphor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BLAJ"
+        }
+    ],
+    "require": {}
+}
